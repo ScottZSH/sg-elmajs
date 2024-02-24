@@ -1,5 +1,5 @@
 {
-  "name": "elmajs",
+  "name": "sg-node-elma",
   "version": "0.0.1",
   "description": "Elasto Mania NPM package to read, modify and write Elma files",
   "main": "lib/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elmadev/elmajs.git"
+    "url": "git+https://github.com/ScottZSH/sg-elmajs"
   },
   "keywords": [
     "elasto mania",
@@ -26,12 +26,12 @@
     "level",
     "game"
   ],
-  "author": "Roger Andersen",
+  "author": "Scott",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/elmadev/elmajs/issues"
+    "url": "https://github.com/ScottZSH/sg-elmajs/issues"
   },
-  "homepage": "https://github.com/elmadev/elmajs#readme",
+  "homepage": "https://github.com/ScottZSH/sg-elmajs#readme",
   "devDependencies": {
     "@types/fs-extra": "^9.0.1",
     "@types/jest": "^27.0.1",
