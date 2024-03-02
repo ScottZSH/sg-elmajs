@@ -1,6 +1,6 @@
 {
   "name": "sg-node-elma",
-  "version": "0.0.2",
+  "version": "1.0.5",
   "description": "Elasto Mania NPM package to read, modify and write Elma files",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -28,10 +28,6 @@
   ],
   "author": "Scott",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ScottZSH/sg-elmajs/issues"
-  },
-  "homepage": "https://github.com/ScottZSH/sg-elmajs#readme",
   "devDependencies": {
     "@types/fs-extra": "^9.0.1",
     "@types/jest": "^27.0.1",
